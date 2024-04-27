@@ -1,0 +1,63 @@
+.home{
+/* background-color: red; */
+display: flex;
+flex-direction:column;
+align-items:normal;
+margin-bottom: 40px;
+font-family: arial;
+font-size: 16px;
+}
+.information{
+display: flex;
+margin-bottom: 10px;
+/* background-color: aqua; */
+color: #3498db;
+  justify-content: center;
+  align-items: center;
+  }
+
+.docteur{
+
+    display: flex;
+    margin-bottom: 10px;
+    /* background-color: aqua; */
+    color: rgb(43, 0, 255);
+      justify-content: center;
+      align-items: center;
+      margin-top: 80px;
+      }  
+.service-info {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+
+.step {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 3px solid #ccc;
+    border-radius: 5px;
+}
+
+.step h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.step p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery img {
+    
+    width: 280px; 
+    height: 250px; 
+    object-fit: cover; 
+    margin: 10px; 
+}
+
+

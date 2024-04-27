@@ -1,0 +1,154 @@
+[
+    {
+      "id": 1,
+      "photo": "./img/user1.png",
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice.johnson@example.com",
+      "occupation": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "photo": "./img/user2.png",
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "email": "bob.smith@example.com",
+      "occupation": "Project Manager"
+    },
+    {
+      "id": 3,
+      "photo": "./img/user3.png",
+      "firstName": "Carol",
+      "lastName": "White",
+      "email": "carol.white@example.com",
+      "occupation": "UI/UX Designer"
+    },
+    {
+      "id": 4,
+      "photo": "./img/user4.png",
+      "firstName": "Dave",
+      "lastName": "Brown",
+      "email": "dave.brown@example.com",
+      "occupation": "DevOps Specialist"
+    },
+    {
+      "id": 5,
+      "photo": "./img/user5.png",
+      "firstName": "Eve",
+      "lastName": "Davis",
+      "email": "eve.davis@example.com",
+      "occupation": "Data Scientist"
+    },
+    {
+      "id": 6,
+      "photo": "./img/user6.png",
+      "firstName": "Frank",
+      "lastName": "Miller",
+      "email": "frank.miller@example.com",
+      "occupation": "Hardware Engineer"
+    },
+    {
+      "id": 7,
+      "photo": "./img/user7.png",
+      "firstName": "Grace",
+      "lastName": "Wilson",
+      "email": "grace.wilson@example.com",
+      "occupation": "Network Engineer"
+    },
+    {
+      "id": 8,
+      "photo": "./img/user8.png",
+      "firstName": "Henry",
+      "lastName": "Moore",
+      "email": "henry.moore@example.com",
+      "occupation": "Marketing Specialist"
+    },
+    {
+      "id": 9,
+      "photo": "./img/user9.png",
+      "firstName": "Ivy",
+      "lastName": "Taylor",
+      "email": "ivy.taylor@example.com",
+      "occupation": "Product Manager"
+    },
+    {
+      "id": 10,
+      "photo": "./img/user10.png",
+      "firstName": "Jack",
+      "lastName": "Anderson",
+      "email": "jack.anderson@example.com",
+      "occupation": "Quality Assurance"
+    },
+    {
+      "id": 11,
+      "photo": "./img/user10.png",
+      "firstName": "Jack",
+      "lastName": "Anderson",
+      "email": "jack.anderson@example.com",
+      "occupation": "Quality Assurance"
+    },
+    {
+      "id": 12,
+      "photo": "./img/user9.png",
+      "firstName": "Ivy",
+      "lastName": "Taylor",
+      "email": "ivy.taylor@example.com",
+      "occupation": "Product Manager"
+    },{
+      "id": 13,
+      "photo": "./img/user7.png",
+      "firstName": "Grace",
+      "lastName": "Wilson",
+      "email": "grace.wilson@example.com",
+      "occupation": "Network Engineer"
+    },
+    {
+      "id": 14,
+      "photo": "./img/user8.png",
+      "firstName": "Henry",
+      "lastName": "Moore",
+      "email": "henry.moore@example.com",
+      "occupation": "Marketing Specialist"
+    },
+    {
+      "id": 15,
+      "photo": "./img/user5.png",
+      "firstName": "Eve",
+      "lastName": "Davis",
+      "email": "eve.davis@example.com",
+      "occupation": "Data Scientist"
+    },
+    {
+      "id": 16,
+      "photo": "./img/user6.png",
+      "firstName": "Frank",
+      "lastName": "Miller",
+      "email": "frank.miller@example.com",
+      "occupation": "Hardware Engineer"
+    },
+    {
+      "id": 17,
+      "photo": "./img/user2.png",
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "email": "bob.smith@example.com",
+      "occupation": "Project Manager"
+    },
+    {
+      "id": 18,
+      "photo": "./img/user3.png",
+      "firstName": "Carol",
+      "lastName": "White",
+      "email": "carol.white@example.com",
+      "occupation": "UI/UX Designer"
+    },
+    {
+      "id": 19,
+      "photo": "./img/user4.png",
+      "firstName": "Dave",
+      "lastName": "Brown",
+      "email": "dave.brown@example.com",
+      "occupation": "DevOps Specialist"
+    }
+  ]
+  

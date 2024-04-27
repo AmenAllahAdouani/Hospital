@@ -1,0 +1,51 @@
+.lowerRdv {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.appointment-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .card {
+    background-color: #007bff;
+    padding: 12px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 12px;
+    width: calc(30% - 20px);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card-header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .card-header img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+    border: 1.5px solid #fff;
+  }
+  
+  .card h3, .card p {
+    margin: 5px 0;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+  }
+  

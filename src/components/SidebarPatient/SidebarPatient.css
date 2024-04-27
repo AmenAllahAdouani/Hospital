@@ -1,0 +1,39 @@
+.sideBarContainer{
+    background-color: rgb(216, 216, 216);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 3rem;
+    width: 20%;
+    height: 100%;
+}
+.sideBarOptions-patient{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1.5rem;
+    width: 90%;
+}
+.sideBarButtons-patient{
+    width: 17rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1rem;
+    height: 3rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.sideBarButtons:hover{
+    background-color: black;
+    color: white;
+}
+
+.sideBarTitle{
+    margin-top: 2rem;
+    font-size: 30px;
+    font-weight: 500;
+}

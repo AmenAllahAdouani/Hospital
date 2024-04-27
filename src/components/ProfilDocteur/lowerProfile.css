@@ -1,0 +1,89 @@
+.updateProfileContainer {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.updateHeader {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.updateTitle {
+    font-size: 24px;
+    color: #333;
+    margin: 0;
+}
+
+.profileSection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.imageContainer {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.profileImage {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.fileInput {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.updateInputsContainer {
+    flex: 1;
+    padding-left: 25px;
+}
+
+.textInputUpdate {
+    margin-bottom: 15px;
+}
+
+.updateInputsTitle {
+    font-size: 8px;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+.updateInputs {
+    width: 200px;
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.updateButton {
+    display: flex;
+    width: 180px;
+    padding: 10px 20px;
+    margin: 20px auto;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    font-size: 32px;
+    justify-content: center;
+}
+
+.updateButton:hover {
+    background-color: #0056b3;
+}
